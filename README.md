@@ -27,7 +27,7 @@ Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮�
 - 🌐 Built a **Digital Time Capsule platform** using Go, Flutter & PostgreSQL — because future-you deserves surprises
 - 🔐 Self-taught in **ethical hacking & networking** — TryHackMe grinder, Cisco Networking certified, Kali Linux explorer
 - 🧩 Chess player ♟️ · Cricket fanatic 🏏 · Mind-thriller film addict 🎬 — basically a strategist at heart
-- 📺 Sharing my dev journey on **YouTube · Medium · Instagram** — because learning out loud is the best kind of learning
+
 - 🚀 On a mission to land my first role and leave a dent in whatever codebase I touch
 
 ---
