@@ -27,7 +27,6 @@ Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮�
 - 🌐 Built a **Digital Time Capsule platform** using Go, Flutter & PostgreSQL — because future-you deserves surprises
 - 🔐 Self-taught in **ethical hacking & networking** — TryHackMe grinder, Cisco Networking certified, Kali Linux explorer
 - 🧩 Chess player ♟️ · Cricket fanatic 🏏 · Mind-thriller film addict 🎬 — basically a strategist at heart
-
 - 🚀 On a mission to land my first role and leave a dent in whatever codebase I touch
 
 ---
@@ -85,20 +84,16 @@ Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮�
     <img src="https://img.shields.io/badge/LinkedIn-Shyamsunder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@Shyam9392" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Shyam9392-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  &nbsp;
   <a href="https://medium.com/@Shyam9392" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Shyam9392-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/shyam_9392" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-shyam__9392-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="mailto:shyamsunderkalyanapu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-shyamsunderkalyanapu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="mailto:shyamsunderkalyanapu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="tel:+919392651508" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-9392651508-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
@@ -137,11 +132,11 @@ Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮�
 <p align="center">
   <a href="https://www.linkedin.com/in/shyamsunder-kalyanapu9392"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
   &nbsp;
-  <a href="https://www.youtube.com/@Shyam9392"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube"/></a>
+  <a href="https://medium.com/@Shyam9392"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
   &nbsp;
-  <a href="https://medium.com/@Shyam9392"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium"/></a>
+  <a href="mailto:shyamsunderkalyanapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://www.instagram.com/shyam_9392"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"/></a>
+  <a href="tel:+919392651508"><img src="https://img.shields.io/badge/Call-9392651508-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">
