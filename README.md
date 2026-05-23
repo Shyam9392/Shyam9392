@@ -19,17 +19,33 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-> *"Code is not just syntax — it's how I think, build, and create."*
+> *"Every expert was once a beginner — I'm just getting started, and I'm already obsessed."*
 
-I'm **Shyamsunder**, a passionate fresher developer from **Karimnagar, Telangana 🇮🇳**, ready to turn ideas into real-world software. I love building things from scratch and I'm always hungry to learn something new every day.
+Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮🇳** who genuinely enjoys the process of solving problems with code. I don't just write programs; I think in systems, debug with patience, and ship with pride.
 
-- 🎓 B.Tech in **Information Technology** — KU College of Engineering & Technology, Warangal *(CGPA: 8.5)*
-- 💼 Actively seeking my **first Software Engineering role**
-- 🛠️ Built projects like a **Digital Time Capsule** (Go + Flutter + PostgreSQL) and an **ESP8266 Bluetooth Audio System**
-- 🧠 Currently sharpening skills in **DSA, System Design & Full-Stack Dev**
-- 📺 Creating content on **YouTube · Medium · Instagram** to document my tech journey
-- ⚡ Fun facts: I play **Chess ♟️**, follow **Cricket 🏏**, and love **mind-bending thriller films 🎬**
-- 🔐 Cybersecurity enthusiast — exploring **ethical hacking & networking** on TryHackMe
+- 🎓 B.Tech **Information Technology** @ KU College of Engineering & Technology *(CGPA: 8.5)* — where curiosity met compilers
+- 🌐 Built a **Digital Time Capsule platform** using Go, Flutter & PostgreSQL — because future-you deserves surprises
+- 🔐 Self-taught in **ethical hacking & networking** — TryHackMe grinder, Cisco Networking certified, Kali Linux explorer
+- 🧩 Chess player ♟️ · Cricket fanatic 🏏 · Mind-thriller film addict 🎬 — basically a strategist at heart
+- 📺 Sharing my dev journey on **YouTube · Medium · Instagram** — because learning out loud is the best kind of learning
+- 🚀 On a mission to land my first role and leave a dent in whatever codebase I touch
+
+---
+
+<!-- SECTION PROJECTS -->
+## 🚀 Projects
+
+**🐍 Python**
+
+- **CommandLine-Chatbot** — Built an interactive terminal-based chatbot in Python that processes user queries and delivers context-aware responses using structured logic and clean CLI design.
+- **Automate Inventory Operations** — Developed a Python automation script that manages stock updates, triggers low-inventory alerts, and generates formatted reports — eliminating manual tracking effort.
+- **Toxic Comment Classifier** — Built an NLP-based text classification model using TF-IDF and machine learning to detect and flag harmful comments from real-world datasets.
+
+**🗄️ SQL**
+
+- **SQL-Ecommerce** — Designed a fully normalized e-commerce database schema with multi-table joins, aggregations, and business queries to simulate real-world order and product management.
+- **Sales-Database-Report** — Created a structured sales database and generated KPI reports — including revenue trends and top-performing products — using GROUP BY, subqueries, and window functions.
+- **SQL-Audit-Trigger** — Implemented automated audit triggers in SQL to log every INSERT, UPDATE, and DELETE operation into a dedicated audit table for full data traceability.
 
 ---
 
@@ -135,4 +151,5 @@ I'm **Shyamsunder**, a passionate fresher developer from **Karimnagar, Telangana
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="footer wave"/>
 </p>
+
 
