@@ -84,7 +84,7 @@ Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮�
     <img src="https://img.shields.io/badge/LinkedIn-Shyamsunder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://medium.com/@Shyam9392" target="_blank">
+  <a href="https://medium.com/@shyamsunderkalyanapu" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Shyam9392-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   &nbsp;
@@ -132,7 +132,7 @@ Hey! I'm **Shyamsunder** — an IT graduate from **Karimnagar, Telangana 🇮�
 <p align="center">
   <a href="https://www.linkedin.com/in/shyamsunder-kalyanapu9392"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
   &nbsp;
-  <a href="https://medium.com/@Shyam9392"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://medium.com/@shyamsunderkalyanapu"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:shyamsunderkalyanapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
